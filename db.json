@@ -3,22 +3,42 @@
         {
             "id": 1,
             "title": "Animal Farm",
-            "author": "George Orwell"
+            "author": "George Orwell",
+            "pages": 100,
+            "description": "A farm where animals are treated as equals and work together to overthrow the farmer.",
+            "average_reading_time_ms": 7200000
         },
         {
             "id": 2,
             "title": "1984",
-            "author": "George Orwell"
+            "author": "George Orwell",
+            "pages": 100,
+            "description": "A dystopian novel set in a totaltotitarian society where the government controls every aspect of life.",
+            "average_reading_time_ms": 7200000
         },
         {
             "id": 3,
             "title": "Fahrenheit 451",
-            "author": "Ray Bradbury"
+            "author": "Ray Bradbury",
+            "pages": 100,
+            "description": "A dystopian novel set in a totalitarian society where books are banned and burned.",
+            "average_reading_time_ms": 7200000
         },
         {
             "id": 4,
             "title": "Blindness",
-            "author": "José Saramago"
+            "author": "José Saramago",
+            "pages": 100,
+            "description": "A novel about a city where a mysterious disease causes blindness in everyone except for a few people who are able to see.",
+            "average_reading_time_ms": 7200000
+        },
+        {
+            "id": 5,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "pages": 100,
+            "description": "A novel about a young girl growing up in the American South during the Great Depression.",
+            "average_reading_time_ms": 7200000
         }
     ],
     "books": [
