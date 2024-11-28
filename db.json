@@ -1,9 +1,9 @@
 {
-    "books": [
+    "catalog": [
         {
             "id": 1,
-            "title": "The Great Gatsby",
-            "author": "F. Scott Fitzgerald"
+            "title": "Animal Farm",
+            "author": "George Orwell"
         },
         {
             "id": 2,
@@ -12,20 +12,75 @@
         },
         {
             "id": 3,
-            "title": "To Kill a Mockingbird",
-            "author": "Harper Lee"
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury"
+        },
+        {
+            "id": 4,
+            "title": "Blindness",
+            "author": "José Saramago"
         }
     ],
-    "users": [
+    "books": [
         {
             "id": 1,
-            "username": "john_doe",
-            "email": "john@example.com"
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "pages": [
+                "Page 1: In the heart of Eldoria lay the ancient forest of Mistralwood, where the trees whispered secrets to those who dared to listen. Arwen, a young apprentice mage, wandered its winding paths, her cloak fluttering behind her. The forest was alive with the sounds of chirping birds and rustling leaves, but an eerie silence settled as she approached the glimmering pool said to house the fabled crystal of Aelora.",
+                "Page 2: The crystal pulsed with a soft blue light, casting strange shadows on the moss-covered stones. Arwen hesitated, her hand hovering over the water. Legends spoke of its power to grant visions of the future, but they also warned of its dangerous allure. Taking a deep breath, she dipped her hand into the icy water, and a sudden vision of a dark figure shrouded in flames filled her mind.",
+                "Page 3: Arwen stumbled back, her heart racing. The vision faded, leaving her breathless and disoriented. As she turned to leave, a deep voice echoed through the forest. 'Who dares disturb the waters of Aelora?' She froze, her eyes darting around the clearing. A towering figure emerged from the shadows, cloaked in mist, its eyes glowing like embers.",
+                "Page 4: The figure introduced itself as Eldarion, the guardian of the crystal. 'You have seen what lies ahead,' he rumbled, 'but beware, for visions can be deceiving.' Arwen gathered her courage and asked for guidance. Eldarion pointed towards the north, where the mountains of Drakthar loomed. 'Your journey lies there, but tread carefully; the fate of Eldoria rests in your hands.'",
+                "Page 5: Determined, Arwen set off towards the mountains, her mind swirling with questions. The path was treacherous, with steep cliffs and howling winds. Yet, she pressed on, guided by the faint glow of the crystal she had taken. As night fell, she camped beneath a canopy of stars, feeling the weight of her quest and the hope of a brighter future for her homeland."
+            ]
         },
         {
             "id": 2,
-            "username": "jane_doe",
-            "email": "jane@example.com"
+            "title": "1984",
+            "author": "George Orwell",
+            "pages": [
+                "Page 1: In the heart of Eldoria lay the ancient forest of Mistralwood, where the trees whispered secrets to those who dared to listen. Arwen, a young apprentice mage, wandered its winding paths, her cloak fluttering behind her. The forest was alive with the sounds of chirping birds and rustling leaves, but an eerie silence settled as she approached the glimmering pool said to house the fabled crystal of Aelora.",
+                "Page 2: The crystal pulsed with a soft blue light, casting strange shadows on the moss-covered stones. Arwen hesitated, her hand hovering over the water. Legends spoke of its power to grant visions of the future, but they also warned of its dangerous allure. Taking a deep breath, she dipped her hand into the icy water, and a sudden vision of a dark figure shrouded in flames filled her mind.",
+                "Page 3: Arwen stumbled back, her heart racing. The vision faded, leaving her breathless and disoriented. As she turned to leave, a deep voice echoed through the forest. 'Who dares disturb the waters of Aelora?' She froze, her eyes darting around the clearing. A towering figure emerged from the shadows, cloaked in mist, its eyes glowing like embers.",
+                "Page 4: The figure introduced itself as Eldarion, the guardian of the crystal. 'You have seen what lies ahead,' he rumbled, 'but beware, for visions can be deceiving.' Arwen gathered her courage and asked for guidance. Eldarion pointed towards the north, where the mountains of Drakthar loomed. 'Your journey lies there, but tread carefully; the fate of Eldoria rests in your hands.'",
+                "Page 5: Determined, Arwen set off towards the mountains, her mind swirling with questions. The path was treacherous, with steep cliffs and howling winds. Yet, she pressed on, guided by the faint glow of the crystal she had taken. As night fell, she camped beneath a canopy of stars, feeling the weight of her quest and the hope of a brighter future for her homeland."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "pages": [
+                "Page 1: In the heart of Eldoria lay the ancient forest of Mistralwood, where the trees whispered secrets to those who dared to listen. Arwen, a young apprentice mage, wandered its winding paths, her cloak fluttering behind her. The forest was alive with the sounds of chirping birds and rustling leaves, but an eerie silence settled as she approached the glimmering pool said to house the fabled crystal of Aelora.",
+                "Page 2: The crystal pulsed with a soft blue light, casting strange shadows on the moss-covered stones. Arwen hesitated, her hand hovering over the water. Legends spoke of its power to grant visions of the future, but they also warned of its dangerous allure. Taking a deep breath, she dipped her hand into the icy water, and a sudden vision of a dark figure shrouded in flames filled her mind.",
+                "Page 3: Arwen stumbled back, her heart racing. The vision faded, leaving her breathless and disoriented. As she turned to leave, a deep voice echoed through the forest. 'Who dares disturb the waters of Aelora?' She froze, her eyes darting around the clearing. A towering figure emerged from the shadows, cloaked in mist, its eyes glowing like embers.",
+                "Page 4: The figure introduced itself as Eldarion, the guardian of the crystal. 'You have seen what lies ahead,' he rumbled, 'but beware, for visions can be deceiving.' Arwen gathered her courage and asked for guidance. Eldarion pointed towards the north, where the mountains of Drakthar loomed. 'Your journey lies there, but tread carefully; the fate of Eldoria rests in your hands.'",
+                "Page 5: Determined, Arwen set off towards the mountains, her mind swirling with questions. The path was treacherous, with steep cliffs and howling winds. Yet, she pressed on, guided by the faint glow of the crystal she had taken. As night fell, she camped beneath a canopy of stars, feeling the weight of her quest and the hope of a brighter future for her homeland."
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Blindness",
+            "author": "José Saramago",
+            "pages": [
+                "Page 1: In the heart of Eldoria lay the ancient forest of Mistralwood, where the trees whispered secrets to those who dared to listen. Arwen, a young apprentice mage, wandered its winding paths, her cloak fluttering behind her. The forest was alive with the sounds of chirping birds and rustling leaves, but an eerie silence settled as she approached the glimmering pool said to house the fabled crystal of Aelora.",
+                "Page 2: The crystal pulsed with a soft blue light, casting strange shadows on the moss-covered stones. Arwen hesitated, her hand hovering over the water. Legends spoke of its power to grant visions of the future, but they also warned of its dangerous allure. Taking a deep breath, she dipped her hand into the icy water, and a sudden vision of a dark figure shrouded in flames filled her mind.",
+                "Page 3: Arwen stumbled back, her heart racing. The vision faded, leaving her breathless and disoriented. As she turned to leave, a deep voice echoed through the forest. 'Who dares disturb the waters of Aelora?' She froze, her eyes darting around the clearing. A towering figure emerged from the shadows, cloaked in mist, its eyes glowing like embers.",
+                "Page 4: The figure introduced itself as Eldarion, the guardian of the crystal. 'You have seen what lies ahead,' he rumbled, 'but beware, for visions can be deceiving.' Arwen gathered her courage and asked for guidance. Eldarion pointed towards the north, where the mountains of Drakthar loomed. 'Your journey lies there, but tread carefully; the fate of Eldoria rests in your hands.'",
+                "Page 5: Determined, Arwen set off towards the mountains, her mind swirling with questions. The path was treacherous, with steep cliffs and howling winds. Yet, she pressed on, guided by the faint glow of the crystal she had taken. As night fell, she camped beneath a canopy of stars, feeling the weight of her quest and the hope of a brighter future for her homeland."
+            ]
+        },
+        {
+            "id": 5,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "pages": [
+                "Page 1: In the heart of Eldoria lay the ancient forest of Mistralwood, where the trees whispered secrets to those who dared to listen. Arwen, a young apprentice mage, wandered its winding paths, her cloak fluttering behind her. The forest was alive with the sounds of chirping birds and rustling leaves, but an eerie silence settled as she approached the glimmering pool said to house the fabled crystal of Aelora.",
+                "Page 2: The crystal pulsed with a soft blue light, casting strange shadows on the moss-covered stones. Arwen hesitated, her hand hovering over the water. Legends spoke of its power to grant visions of the future, but they also warned of its dangerous allure. Taking a deep breath, she dipped her hand into the icy water, and a sudden vision of a dark figure shrouded in flames filled her mind.",
+                "Page 3: Arwen stumbled back, her heart racing. The vision faded, leaving her breathless and disoriented. As she turned to leave, a deep voice echoed through the forest. 'Who dares disturb the waters of Aelora?' She froze, her eyes darting around the clearing. A towering figure emerged from the shadows, cloaked in mist, its eyes glowing like embers.",
+                "Page 4: The figure introduced itself as Eldarion, the guardian of the crystal. 'You have seen what lies ahead,' he rumbled, 'but beware, for visions can be deceiving.' Arwen gathered her courage and asked for guidance. Eldarion pointed towards the north, where the mountains of Drakthar loomed. 'Your journey lies there, but tread carefully; the fate of Eldoria rests in your hands.'",
+                "Page 5: Determined, Arwen set off towards the mountains, her mind swirling with questions. The path was treacherous, with steep cliffs and howling winds. Yet, she pressed on, guided by the faint glow of the crystal she had taken. As night fell, she camped beneath a canopy of stars, feeling the weight of her quest and the hope of a brighter future for her homeland."
+            ]
         }
     ]
 }
